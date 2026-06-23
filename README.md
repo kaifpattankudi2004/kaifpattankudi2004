@@ -39,7 +39,7 @@
 - Problem Solving
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/kaifpattankudi2004
+- LinkedIn: (https://www.linkedin.com/in/mahammadkaif-pattankudi-9a575b341?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ⭐ Always eager to learn new technologies and build impactful projects.
