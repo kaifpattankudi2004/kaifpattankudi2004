@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Kaif
 
-<!--
-**kaifpattankudi2004/kaifpattankudi2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Graduate  
+💻 Passionate about Software Development and Data Analytics
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- Python
+- JavaScript
+- HTML5
+- CSS3
+
+### Frontend Development
+- React.js
+- Responsive Web Design
+
+### Data Analytics
+- Data Cleaning
+- Data Visualization
+- Basic Statistical Analysis
+- Python Libraries (Pandas, NumPy, Matplotlib)
+
+## 🛠️ Technologies & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,git,github,vscode" />
+</p>
+
+## 📚 Currently Learning
+- Advanced React Development
+- Data Analytics & Visualization
+- Full Stack Development
+
+## 🎯 Interests
+- Web Development
+- Data Analytics
+- Open Source Contributions
+- Problem Solving
+
+## 📫 Connect With Me
+- GitHub: https://github.com/yourusername
+- LinkedIn: https://linkedin.com/in/yourprofile
+
+⭐ Always eager to learn new technologies and build impactful projects.
